@@ -4,7 +4,7 @@
     {
       "id": "car",
       "type": "CHECKBOX_CAROUSEL",
-      "label": "Select a car you want to test drive lol",
+      "label": "Select a car you want to test drive",
       "data": [
         {
           "id": "SCORPIO_1",
