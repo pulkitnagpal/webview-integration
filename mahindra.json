@@ -1,0 +1,74 @@
+{
+	"client": "mahindra",
+  "fields": [
+    {
+      "id": "car",
+      "type": "CHECKBOX_CAROUSEL",
+      "label": "Select a car you want to test drive",
+      "data": [
+        {
+          "id": "SCORPIO_1",
+          "title": "Scorpio-N",
+          "image_url":
+            "https://prog-ace-cdn.azureedge.net/-/media/project/mahindra/dotcom/mahindra/all-vehicles/suv/xuv700/xuv7.png?rev=3e15ec333cb944c18cee87f75f457836&extension=webp"
+        },
+        {
+          "id": "700_1",
+          "title": "XUV 700",
+          "image_url":
+            "https://prog-ace-cdn.azureedge.net/-/media/project/mahindra/dotcom/mahindra/all-vehicles/suv/thar/240x160_new.png?rev=ff686918d26240c9bc7dfb1604d71aac&extension=webp"
+        },
+        {
+          "id": "THAR",
+          "title": "THAR",
+          "image_url":
+            "https://prog-ace-cdn.azureedge.net/-/media/project/mahindra/dotcom/mahindra/all-vehicles/suv/xuv700/xuv7.png?rev=3e15ec333cb944c18cee87f75f457836&extension=webp"
+        }
+      ]
+    },
+    {
+      "id": "pincode",
+      "type": "TEXT",
+      "label": "",
+      "data": {
+        "label": "Enter your pincode",
+        "type": "number",
+        "maxLength": 10
+      }
+    },
+    {
+      "id": "username",
+      "type": "TEXT",
+      "label": "UserName",
+      "data": {
+        "type": "",
+        "label": "Name",
+        "maxLength": 20
+      }
+    },
+    {
+      "id": "tnc",
+      "type": "CHECKBOX_TNC",
+      "label": "",
+      "data": {
+        "label":
+          "I agree to be contacted by Mahindra & Mahindra and associates regarding my interest via phone call, WhatsApp or any other medium. I also agree to website's <T&C> and <Privacy Policy>.",
+        "links": {
+          "T&C": "https://www.mahindraadventure.com/tnc",
+          "Privacy Policy": "https://www.mahindraadventure.com/tnc"
+        }
+      }
+    },
+    {
+      "id": "cta",
+      "type": "CTA",
+      "label": "",
+      "data": {
+        "label": {
+          "text": "Book Test Drive"
+        }
+      }
+    }
+  ],
+  "api_url": "some_hotstar_service_url"
+}
