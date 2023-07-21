@@ -70,5 +70,5 @@
       }
     }
   ],
-  "api_url": "some_hotstar_service_url"
+  "api_url": "https://pp5.hotstar.com/v1/cte/lead"
 }
