@@ -1,5 +1,7 @@
 {
 	"client": "mahindra",
+	"favicon_url": "https://www.mahindra.com/sites/default/files/favicon.png",
+	"title": "Book your Car with Mahindra",
   "fields": [
     {
       "id": "car",
