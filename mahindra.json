@@ -1,5 +1,5 @@
 {
-	"client": "mahindra",
+	"client": 1,
 	"favicon_url": "https://www.mahindra.com/sites/default/files/favicon.png",
 	"title": "Book your Car with Mahindra",
   "fields": [
@@ -36,7 +36,7 @@
           {
             "id": "Bolero_Neo",
             "title": "Bolero Neo",
-            "image_url": "https://secure-media.hotstar.com/static/webview/mahindra/images/bolero-newo.webp"
+            "image_url": "https://secure-media.hotstar.com/static/webview/mahindra/images/bolero-neo.webp"
           },
           {
             "id": "Bolero",
